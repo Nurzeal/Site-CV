@@ -1,0 +1,30 @@
+/* ==========================================================================
+Main page styles
+========================================================================== */
+
+.cvlogo {
+  display: inline-block;
+  width: 347px;
+  height: 497px;
+  background: url('../../content/images/CV.png') no-repeat center top;
+  background-size: contain;
+  float:left;
+}
+
+.pclogo {
+  display: inline-block;
+  width: 347px;
+  height: 497px;
+  background: url('../../content/images/computer.png') no-repeat center top;
+  background-size: contain;
+  float:right;
+}
+
+.presperso {
+text-align: left
+}
+
+.pressite {
+text-align: right;
+}
+
