@@ -237,10 +237,57 @@
             <version>${archunit-junit5.version}</version>
             <scope>test</scope>
         </dependency>
-        <dependency>
+<dependency>
+    <groupId>org.zalando</groupId>
+    <artifactId>problem-spring-web</artifactId>
+    <exclusions>
+        <exclusion>
             <groupId>org.zalando</groupId>
-            <artifactId>problem-spring-web</artifactId>
-        </dependency>
+            <artifactId>problem</artifactId>
+        </exclusion>
+        <exclusion>
+            <groupId>org.zalando</groupId>
+            <artifactId>jackson-datatype-problem</artifactId>
+        </exclusion>
+        <exclusion>
+            <groupId>org.zalando</groupId>
+            <artifactId>faux-pas</artifactId>
+        </exclusion>
+    </exclusions>
+</dependency>
+<dependency>
+    <groupId>org.zalando</groupId>
+    <artifactId>problem</artifactId>
+    <version>0.23.0</version>
+    <exclusions>
+        <exclusion>
+            <groupId>org.apiguardian</groupId>
+            <artifactId>apiguardian-api</artifactId>
+        </exclusion>
+    </exclusions>
+</dependency>
+<dependency>
+    <groupId>org.zalando</groupId>
+    <artifactId>jackson-datatype-problem</artifactId>
+    <version>0.23.0</version>
+    <exclusions>
+        <exclusion>
+            <groupId>org.apiguardian</groupId>
+            <artifactId>apiguardian-api</artifactId>
+        </exclusion>
+    </exclusions>
+</dependency>
+<dependency>
+    <groupId>org.zalando</groupId>
+    <artifactId>faux-pas</artifactId>
+    <version>0.8.0</version>
+    <exclusions>
+        <exclusion>
+            <groupId>org.apiguardian</groupId>
+            <artifactId>apiguardian-api</artifactId>
+        </exclusion>
+    </exclusions>
+</dependency>
         <!-- Spring Cloud -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
