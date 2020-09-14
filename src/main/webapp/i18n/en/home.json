@@ -1,12 +1,13 @@
 {
   "home": {
     "title": "Kilian HENRY's CV Website",
+    "titre":  "Research engineer",
     "acceuil": "Homepage",
     "presperso": "Personnal presentation",
     "pressite": "Website overview",
     "compétences" : "My skills",
     "textperso1" : "Currently looking for a",
-    "textperso112": "Research and Development engineer position.",
+    "textperso112": "Research engineer position.",
     "textperso113": "Recently graduated from a",
     "textperso2" : "'Nutrition et Sciences des Aliments'",
     "textperso3" : "master's degree (Option :",
@@ -27,16 +28,12 @@
     "textsite2" : "Curriculum vitae ",
     "textsite3" : "in a more original approach, which allow me to bypass the constraint of a classical presentation, and most importantly, to improve my knowledge in a really enjoyable way.",
     "textsite4" : "It was written using",
-    "textsite5" : "HTML and CSS",
+    "textsite5" : "HTML, CSS and SVG",
     "textsite6" : "language and the",
     "textsite7" : "Angular",
     "textsite8" : "framework with",
     "textsite9" : "Microsoft Visual Studio Code ",
     "textsite10": "and the open source application generator",
-    "textsite11": "JHipster.",
-    "textsite12" : "I wish you a good visit on the website, in",
-    "textsite13": "english",
-    "textsite14": "or in",
-    "textsite15": "french"
+    "textsite11": "JHipster."
   }
 }

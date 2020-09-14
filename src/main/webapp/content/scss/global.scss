@@ -69,14 +69,14 @@ h4 {
       }
   .bold{
     font-weight: bold;
-    font-size: 20px;
+    font-size: 18px;
   }
   .italic{
     font-style: italic;
-    font-size : 20px
+    font-size : 18px
   }
   .texte{
-font-size: 20px;
+font-size: 18px;
   }
   .centrer {
     text-align: center;
@@ -84,35 +84,53 @@ font-size: 20px;
   .cvposte
   {
     text-align: center;
-    font-size: 35px;
+    font-size: 22px;
     font-weight: bold;
   }
   .cvpara
   {
     text-align: center;
-    font-size: 35px;
+    font-size: 20px;
     font-weight: bold;
     font-style: italic;
   }
   .cvent
   {
-    font-size: 30px;
+    font-size: 20px;
   }
   .cvdat
   {
-    font-size: 25px;
+    font-size: 20px;
     font-style: italic;
   }
   .cvsstitre
   {
-    font-size: 20px;
+    font-size: 18px;
     font-weight:bold;
   }
   .cvtex
   {
-    font-size: 20px;
+    font-size: 16px;
     text-align:center;
   }
+
+  .test img:last-child {
+    display: none;  
+  }
+  .test:hover img:last-child {
+    display: block;  
+  }
+  .test:hover img:first-child {
+    display: none;  
+  }
+
+  .conteneur {
+    display : table;
+    margin-left : 37% ;
+    }
+  
+
+
 
 
 /* Increase contrast of links to get 100% on Lighthouse Accessability Audit. Override this color if you want to change the link color, or use a Bootswatch theme */

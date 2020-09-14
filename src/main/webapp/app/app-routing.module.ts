@@ -14,6 +14,7 @@ const LAYOUT_ROUTES = [navbarRoute, ...errorRoute];
 
 @NgModule({
   imports: [
+
     RouterModule.forRoot(
       [
         {
@@ -31,7 +32,8 @@ const LAYOUT_ROUTES = [navbarRoute, ...errorRoute];
 
         ...LAYOUT_ROUTES
       ],
-      { enableTracing: DEBUG_INFO_ENABLED }
+      { scrollPositionRestoration : 'top',
+        enableTracing: DEBUG_INFO_ENABLED },
     )
   ],
   exports: [RouterModule]

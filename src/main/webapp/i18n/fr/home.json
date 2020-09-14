@@ -1,12 +1,13 @@
 {
   "home": {
     "title": "Site CV de Kilian HENRY",
-    "acceuil": "Acceuil",
+    "titre": " Ingenieur de recherche",
+    "acceuil": "Accueil",
     "presperso": "Présentation personnelle",
     "pressite": "Aperçu du site",
     "compétences" : "Mes compétences",
-    "textperso1" : "Actuellement à l'écoute du marché pour un poste d'",
-    "textperso112": "Ingénieur en 'Recherche et Développement'.",
+    "textperso1" : "Actuellement en recherche d'un poste d'",
+    "textperso112": "Ingénieur de recherche.",
     "textperso113": "Jeune diplômé d'un Master en ",
     "textperso2" : "'Nutrition et Sciences des Aliments'",
     "textperso3" : "(Parcours :",
@@ -27,17 +28,12 @@
     "textsite2" : "curriculum vitae ",
     "textsite3" : "d’une manière plus originale permettant de s’affranchir des « contraintes » d’une présentation classique, et surtout, d’accroitre mes connaissances de manière ludique.",
     "textsite4" : "Ce site a été réalisé par l’utilisation de langage",
-    "textsite5" : "HTML, CSS",
+    "textsite5" : "HTML, CSS et SVG",
     "textsite6" : "ainsi que du framework",
     "textsite7" : "Angular",
     "textsite8" : "via",
     "textsite9" : "Microsoft Visual Studio Code ",
     "textsite10": "et le générateur d’application",
-    "textsite11": "JHipster.",
-    "textsite12" : "Je vous souhaite « bonne visite » sur le site, en",
-    "textsite13": "français",
-    "textsite14": "ou en",
-    "textsite15": "anglais."
-
+    "textsite11": "JHipster."
   }
 }

@@ -277,15 +277,27 @@
       "l6": "Réalisation de tests techniques, d’évolutions et correctifs logiciel",
       "l7": "Chiffrage d'évolution",
       "l8": "Au cours de cette expérience, j'ai pu me former au language COBOL et au Job Control Language (JCL). Cela a également été l'occasion de travailler sur des interfaces homme-machine en JAVA. J'ai donc pu appréhender de manière professionnelle le monde de l'informatique dans un cadre de méthode AGILE, dans un secteur où le respect des spécifications clients et des délais est primordial."
-    }
+    },
 
-  },
+    "ADN" : {
+      "1" : "Paire de bases inconnue",
+      "2" : "Dés que possible",
+      "3" : "Les nucléotides ne sont pas encore connus. Poursuivons ensemble le séquençage de mon CV.",
+      "4" : "Stage",
+      "5" : "Livreur",
+      "6" : "Projet de recherche",
+      "7" : "Ingenieur logiciel",
+      "8" : "bases inconnues",
+      "detail": "Passer le curseur sur chaque expérience pour avoir le détail"
+  }
+},
 
   "contact": {
       "contact" : "Contact",
       "coordonées" : "Mes coordonées",
       "form" : "Formulaire de contact"
   },
+
   "competences": {
     "certif" : "Mes certifications",
     "info" : "En informatique :",
@@ -295,7 +307,7 @@
     "agroalimentaire" : "Agroalimentaire",
     "biologie" : "Biologie",
     "informatique" : "Informatique",
-    "r&d" : "Recherche et Developpement",
+    "r&d" : "R&D",
   
     "1" : {
       "l1": "Transformation de produits",
@@ -328,7 +340,7 @@
       "l8": "- Électrophorèse sur gel d'agarose",
       "l9": "Bio-informatique",
       "l10": "- Biostatistiques (Logiciel R)",
-      "l11": "- Utilisation de logiciels de génomique (Clustal, Snapgene, Seaview...)",
+      "l11": "- Utilisation de logiciels de génomique (Clustal, Snapgene, Seaview, Prosite, Antismash...)",
       "l12": "- Analyse de résultats (BioEdit, Graphpad Prism...)",
       "l13": "Microbiologie",
       "l14": "- Culture de microorganismes",
@@ -389,9 +401,10 @@
       "l19": "- Marketing et economie",
       "l20": "Langue",
       "l21": "- Anglaise : Lu, écrite et parlé (courant et scientifique)"
- 
     }
+    
   },
+  
 "mentions" : {
   "mentiontitre" : "Mentions légales",
   "perso" : "Informations personnelles",
@@ -399,5 +412,10 @@
   "mentiontexte" : "L’ensemble de ce site relève des législations françaises et internationales sur le droit d’auteur et la propriété intellectuelle. Tous les droits de reproduction sont réservés, y compris pour les documents iconographiques et photographiques.",
   "hebergeurtexte" : "Le site est hébergé par la société Heroku Inc., 650 7th Street, San Francisco, CA (tel : +33 1 (877) 563-4311)."
 }
+
+
+
+
+
 }
 

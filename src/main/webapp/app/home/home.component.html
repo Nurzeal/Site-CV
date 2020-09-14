@@ -1,10 +1,26 @@
-<div class="col-md-9">
-    <h2 class="titrepage" jhiTranslate="home.acceuil">Acceuil</h2>
-</div>    
+<div>
+<svg>
+    <defs>
+        <clipPath id="clip-00" >
+              <text stroke="#000000" transform="matrix(5.086548398328022,0,0,20.67494703780562,-1459.4011649359263,-3424.179383935121) " xml:space="preserve" text-anchor="middle" font-family="Oswald" font-weight="bold" font-size="12" id="svg_3" y="186.4397" x="349.48895" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000" jhiTranslate="home.titre">KILIAN HENRY</text>
+    </clipPath>
+    </defs>
+</svg>
+    <div class="video-container">
+      <video loop autoplay muted playsinline>
+          <source src="../../content/images/Intro.mp4" type="video/mp4">
+     </video>
+</div>
 
-<br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
+    <div class="col-md-9">
+        <h2 class="titrepage" jhiTranslate="home.acceuil">Acceuil</h2>
+    </div>    
+    
+    <br>
 
+    
     <div class="presperso">
         <div class="cvlogo"></div>
         <div>
@@ -54,13 +70,43 @@
             <span class="bold" jhiTranslate="home.textsite9">Microsoft Visual Studio Code </span>
             <span class="texte" jhiTranslate="home.textsite10">et le générateur d’application</span>
             <span class="bold" jhiTranslate="home.textsite11">JHipster.</span>
-            <span class="texte" jhiTranslate="home.textsite12">Je vous souhaite « bonne visite » sur le site, en</span>
-            <span class="bold" jhiTranslate="home.textsite13">francais</span>
-            <span class="texte" jhiTranslate="home.textsite14">ou en</span>
-            <span class="bold" jhiTranslate="home.textsite15">anglais.</span>
+
         </div>
     </div>
+    <br><br><br><br><br><br>
 
-<br><br><br>
+    <div class="conteneur">
+        <div class="row">
+        <div class="col-3">     
+        <a  class="test" routerLink="/">
+            <img src="../../content/images/micropipette 1 Vert.png" width="100px">
+            <img src="../../content/images/micropipette 2 Vert.png" width="100px">
+        </a>
+        <p class="centrer" jhiTranslate="global.menu.home">Acceuil</p>
+        </div>
+        <div class="col-3">
+        <a class="test" [routerLink]="['/cv']">
+            <img src="../../content/images/micropipette 1 Jaune.png" width="100px">
+            <img src="../../content/images/micropipette 2 Jaune.png" width="100px">
+        </a>
+        <p class="centrer" jhiTranslate="CV.titrecv">CV</p>
+        </div>
+        <div class="col-3">
+        <a class="test" [routerLink]="['/competences']">
+            <img src="../../content/images/micropipette 1 Rouge.png" width="100px">
+            <img src="../../content/images/micropipette 2 Rouge.png" width="100px">
+        </a>
+        <p class="centrer" jhiTranslate="global.menu.competences">Compétences</p>
+        </div>
+        <div class="col-3">
+        <a href="#" class="test" [routerLink]="['/contact']">
+            <img src="../../content/images/micropipette 1 Bleu.png" width="100px">
+            <img src="../../content/images/micropipette 2 Bleu.png" width="100px">
+        </a>
+        <p class="centrer" jhiTranslate="global.menu.contact">Contact</p>
+        </div>
+        </div>
+        </div>
+        <br><br>
 
 

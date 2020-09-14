@@ -279,8 +279,18 @@
     "l6": "Technical tests, evolutions and software fixes",
     "l7": "Application evolution costing",
     "l8": "During this experience, I was able to learn COBOL language and Job Control Language (JCL). It was also an opportunity to work on man-machine interfaces in JAVA. I was able to professionally understand the world of IT within an AGILE method, in a sector where compliance with customer specifications and deadlines are essential."
+  },
+  "ADN" : {
+    "1" : "The base pair is yet to be discovered",
+    "2" : "As soon as possible",
+    "3" : "The nucleotide are still unknown. I'm looking for a company to help me continue the sequencing of my CV.",
+    "4" : "Internship",
+    "5" : "Delivery man",
+    "6" : "Research project",
+    "7" : "Software engineer",
+    "8" : "Unknown bp",
+    "detail": "Hover the cursor over each experience for details"
   }
-
   },
 "contact": {
   "contact" : "Contact",
@@ -297,7 +307,7 @@
   "agroalimentaire" : "Food-Processing",
   "biologie" : "Biology",
   "informatique" : "Informatics",
-  "r&d" : "Research and Development",
+  "r&d" : "R&D",
   
   "1" : {
     "l1": "Food processing",
@@ -393,7 +403,10 @@
     "l21": "- English : Reading, writting and speaking (fluent and scientific level)"
 
   }
+
+  
 },
+
 "mentions" : {
   "mentiontitre" : "Legal disclaimer",
   "perso" : "Personnal information",
@@ -401,5 +414,7 @@
   "mentiontexte" : "This entire site is subject to French and international legislation on copyright and intellectual property. All reproduction rights are reserved, including for iconographic and photographic documents.",
   "hebergeurtexte" : "Thhis website is hosted by Heroku Inc., 650 7th Street, San Francisco, CA (tel : +33 1 (877) 563-4311)."
 }
+
+
 }
 
