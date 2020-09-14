@@ -1,5 +1,5 @@
 {
-  "name": "cv-web-henry",
+  "name": "c",
   "version": "0.0.1-SNAPSHOT",
   "description": "Description for CvWebHenry",
   "private": true,
@@ -127,5 +127,15 @@
   "jestSonar": {
     "reportPath": "target/test-results/jest",
     "reportFile": "TESTS-results-sonar.xml"
-  }
+  },
+  "main": ".lintstagedrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nurzeal/Site-CV.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/Nurzeal/Site-CV/issues"
+  },
+  "homepage": "https://github.com/Nurzeal/Site-CV#readme"
 }
