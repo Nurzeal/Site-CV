@@ -8,7 +8,7 @@ Main page styles
   height: 497px;
   background: url('../../content/images/CV.png') no-repeat center top;
   background-size: contain;
-  float:left;
+  float: left;
 }
 
 .pclogo {
@@ -17,15 +17,23 @@ Main page styles
   height: 497px;
   background: url('../../content/images/computer.png') no-repeat center top;
   background-size: contain;
-  float:right;
+  float: right;
+}
+
+.titre {
+  display: inline-block;
+  width: 2000px;
+  height: 1000px;
+  background: url('../../content/images/titre.jpg') no-repeat center top;
+  background-size: contain;
 }
 
 .presperso {
-text-align: left
+  text-align: left;
 }
 
 .pressite {
-text-align: right;
+  text-align: right;
 }
 
 body {
@@ -34,11 +42,11 @@ body {
 
 .video-container {
   position: absolute;
-  top : 2px; 
-  right : 25%;
-      display: block;
-      clip-path: url(#clip-00);
-  }
+  top: 2px;
+  right: 15%;
+  display: block;
+  clip-path: url(#clip-00);
+}
 
 .clipping-paths {
   width: 0;
@@ -51,7 +59,7 @@ svg {
   margin: auto;
 }
 
-.Test  { 
+.Test {
   position: relative;
   width: 100%;
   height: auto;
@@ -59,4 +67,3 @@ svg {
   float: left;
   border: none;
 }
-
