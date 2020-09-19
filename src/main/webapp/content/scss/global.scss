@@ -7,131 +7,125 @@ Bootstrap tweaks
 ===============================================================*/
 
 body {
-background-image:url("../images/Wallpaper.png");
-background-repeat: no-repeat;
-background-size: cover;
+  background-image: url('../images/Wallpaper.png');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
-h1, 
+h1,
 h2,
 h3,
 h4 {
   font-weight: 300;
 }
-
+.titre {
+  color: #000080;
+  font-size: 80px;
+  text-shadow: 2px 2px 2px white;
+}
 .titrepage {
-  color : #000080;
-  font-size: 70px; 
+  color: #000080;
+  font-size: 70px;
   text-align: left;
 }
 .titrepage2 {
-  color : #000080;
-  font-size: 70px; 
+  color: #000080;
+  font-size: 70px;
   text-align: left;
   font-style: italic;
 }
 .titrepara {
-  color : #000080;
-  font-size: 50px; 
-  float:left;
+  color: #000080;
+  font-size: 50px;
+  float: left;
   text-shadow: 2px 2px 2px white;
 }
 .titrepara2 {
-  color : #000080;
-  font-size: 50px; 
-  float:right;
+  color: #000080;
+  font-size: 50px;
+  float: right;
   text-shadow: 2px 2px 2px white;
 }
 .titrepara3 {
-  color : #000080;
+  color: #000080;
   font-size: 50px;
   text-shadow: 2px 2px 2px white;
 }
 .cadre1 {
   border: solid 1px black;
-  background-color: rgba(255, 255, 255, 0.7); 
+  background-color: rgba(255, 255, 255, 0.7);
   padding: 20px;
-  }
+}
 
-  .cadreformation {
-    border: solid 1px black;
-    background-color: rgba(25, 118, 210, 0.7); 
-    padding: 20px;
-    }
-  .cadrestage{
-    border: solid 1px black;
-    background-color: rgba(100, 181, 246, 0.7); 
-    padding: 20px;
-    }
-  .cadrepro{
-      border: solid 1px black;
-      background-color: rgba(102, 187, 106, 0.7); 
-      padding: 20px;
-      }
-  .bold{
-    font-weight: bold;
-    font-size: 18px;
-  }
-  .italic{
-    font-style: italic;
-    font-size : 18px
-  }
-  .texte{
-font-size: 18px;
-  }
-  .centrer {
-    text-align: center;
-  }
-  .cvposte
-  {
-    text-align: center;
-    font-size: 22px;
-    font-weight: bold;
-  }
-  .cvpara
-  {
-    text-align: center;
-    font-size: 20px;
-    font-weight: bold;
-    font-style: italic;
-  }
-  .cvent
-  {
-    font-size: 20px;
-  }
-  .cvdat
-  {
-    font-size: 20px;
-    font-style: italic;
-  }
-  .cvsstitre
-  {
-    font-size: 18px;
-    font-weight:bold;
-  }
-  .cvtex
-  {
-    font-size: 16px;
-    text-align:center;
-  }
+.cadreformation {
+  border: solid 1px black;
+  background-color: rgba(25, 118, 210, 0.7);
+  padding: 20px;
+}
+.cadrestage {
+  border: solid 1px black;
+  background-color: rgba(100, 181, 246, 0.7);
+  padding: 20px;
+}
+.cadrepro {
+  border: solid 1px black;
+  background-color: rgba(102, 187, 106, 0.7);
+  padding: 20px;
+}
+.bold {
+  font-weight: bold;
+  font-size: 18px;
+}
+.italic {
+  font-style: italic;
+  font-size: 18px;
+}
+.texte {
+  font-size: 18px;
+}
+.centrer {
+  text-align: center;
+}
+.cvposte {
+  text-align: center;
+  font-size: 22px;
+  font-weight: bold;
+}
+.cvpara {
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+}
+.cvent {
+  font-size: 20px;
+}
+.cvdat {
+  font-size: 20px;
+  font-style: italic;
+}
+.cvsstitre {
+  font-size: 18px;
+  font-weight: bold;
+}
+.cvtex {
+  font-size: 16px;
+  text-align: center;
+}
 
-  .test img:last-child {
-    display: none;  
-  }
-  .test:hover img:last-child {
-    display: block;  
-  }
-  .test:hover img:first-child {
-    display: none;  
-  }
+.test img:last-child {
+  display: none;
+}
+.test:hover img:last-child {
+  display: block;
+}
+.test:hover img:first-child {
+  display: none;
+}
 
-  .conteneur {
-    display : table;
-    margin-left : 37% ;
-    }
-  
-
-
-
+.conteneur {
+  display: table;
+  margin-left: 37%;
+}
 
 /* Increase contrast of links to get 100% on Lighthouse Accessability Audit. Override this color if you want to change the link color, or use a Bootswatch theme */
 a,
@@ -297,5 +291,3 @@ ui bootstrap tweaks
   text-overflow: ellipsis;
   white-space: nowrap;
 }
-
-
