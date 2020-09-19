@@ -141,7 +141,7 @@
     "mention": "Mentions légales",
     "langue": "Langue :",
     "texte1": " Merci d'avoir visité mon site CV. Mon profil vous interesse ? Vous trouverez mes coordonnées sur la page dédiée. Je me tiens à votre disposition pour de plus amples renseignements.",
-    "texte2": " Tout commentaires ou remarques concernant ma page sont égalements bienvenus !",
+    "texte2": " Tous commentaires ou remarques concernant ma page sont égalements bienvenus !",
     "droits": " Kilian HENRY - 2020 - Tous droits réservés"
   },
   "CV": {
@@ -287,7 +287,7 @@
       "5": "Livreur",
       "6": "Projet de recherche",
       "7": "Ingenieur logiciel",
-      "8": "bases inconnues",
+      "8": "Bases inconnues",
       "detail": "Passer le curseur sur chaque expérience pour avoir le détail"
     }
   },
