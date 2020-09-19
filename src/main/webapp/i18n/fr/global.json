@@ -140,7 +140,7 @@
     "telecharger": "Télécharger mon CV",
     "mention": "Mentions légales",
     "langue": "Langue :",
-    "texte1": " Merci d'avoir visité mon site CV. Mon profil vous interesse ? Vous pouvez trouverez mes coordonées sur la page dédiée. Je me tiens à votre disposition pour de plus amples renseignements.",
+    "texte1": " Merci d'avoir visité mon site CV. Mon profil vous interesse ? Vous trouverez mes coordonnées sur la page dédiée. Je me tiens à votre disposition pour de plus amples renseignements.",
     "texte2": " Tout commentaires ou remarques concernant ma page sont égalements bienvenus !",
     "droits": " Kilian HENRY - 2020 - Tous droits réservés"
   },
@@ -167,7 +167,7 @@
       "l3": "Respectivement 3 semaines et 2 semaines",
       "l4": "La problématique de ce stage était de comparer les différences de fabrication entre deux produits avec l'appelation 'fromage'. Pour ce faire, j'ai participé a la fabrication sur deux sites différents afin d'étudier les process propres à chacuns",
       "l5": "Analyse et rédaction de process de fabrication propres à chaque produit",
-      "l6": "Fabrications de produits laitiers (crème, fromage blanc, coeur de Neufchâtel) et cidricole (jus de pommes, cidre, Calvados)",
+      "l6": "Fabrication de produits laitiers (crème, fromage blanc, coeur de Neufchâtel) et cidricole (jus de pommes, cidre, Calvados)",
       "l7": "Préparation de repas pour le restaurant de la ferme du Beau Soleil",
       "l8": "Emballage, mise en bouteille et étiquetage des produits",
       "l9": "Première réelle expérience dans le monde de l'entreprise, ce fut pour moi l'occasion d'apprendre sur le terrain avec des gens passionnés par leurs métiers."
@@ -176,7 +176,7 @@
     "3": {
       "l1": "BTS 'Sciences et Technologies des Aliments'",
       "l2": "2013 - 2015 (2 ans)",
-      "l3": "Souhaitant développer mes acquis dans le secteur de la transformation agroalimentaire, j'ai decider de poursuivre avec un BTS 'Sciences et Technologies des Aliments'. C'est au cours de ces deux années d'études et grâce, d'une part à un module 'Innovation', et  d'autre part grâce au stage de 3 mois effectué dans une entreprise produisant de la confiture sur la recherche d'une méthode de conservation des pommes épluchées pour prévenir le brunissement enzymatique, qu'est né en moi une réelle passion pour la recherche et le développement."
+      "l3": "Souhaitant développer mes acquis dans le secteur de la transformation agroalimentaire, j'ai decider de poursuivre avec un BTS 'Sciences et Technologies des Aliments'. C'est au cours de ces deux années d'études et grâce, d'une part à un module 'Innovation', et  d'autre part grâce au stage de 3 mois qu'est né en moi une réelle passion pour la recherche et le développement."
     },
 
     "4": {
@@ -282,7 +282,7 @@
     "ADN": {
       "1": "Paire de bases inconnue",
       "2": "Dés que possible",
-      "3": "Les nucléotides ne sont pas encore connus. Poursuivons ensemble le séquençage de mon CV.",
+      "3": "Les nucléotides ne sont pas encore connus. Je suis à la recherche d'une entreprise avec laquelle poursuivre le séquençage de mon CV.",
       "4": "Stage",
       "5": "Livreur",
       "6": "Projet de recherche",
@@ -311,9 +311,9 @@
 
     "1": {
       "l1": "Transformation de produits",
-      "l2": "- Laitiers (fromages, glace et crème glacée, beurre, crème...)",
+      "l2": "- Laitiers (fromage, glace et crème glacée, beurre, crème...)",
       "l3": "- Cidricoles (jus de pommes, cidre, Calvados)",
-      "l4": "- Sucrées (Confiture et gelée, chocolats)",
+      "l4": "- Sucrées (Confiture et gelée, chocolat)",
       "l5": " Genie industriel",
       "l6": "- Utilisation de matériel échelle laboratoire et pilote (échangeur tubulaire, boule de concentration, autoclave, tour d'atomisation...)",
       "l7": "- Connaissance de différentes opérations unitaires",
