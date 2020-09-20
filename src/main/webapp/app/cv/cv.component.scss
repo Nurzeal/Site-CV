@@ -69,32 +69,33 @@
   font-weight: bold;
   text-shadow: 1px 1px 0px white;
 }
+.l3 {
+  position: relative;
+  bottom: 1140px;
+  right: 30px;
+  font-size: 20px;
+  font-weight: bold;
+  text-shadow: 1px 1px 0px white;
+}
+
 .livreur {
   position: relative;
-  bottom: 1170px;
-  right: 30px;
+  bottom: 1020px;
+  right: -12px;
   font-size: 20px;
   font-weight: bold;
   text-shadow: 1px 1px 0px white;
 }
 .master {
   position: relative;
-  bottom: 965px;
-  right: -12px;
-  font-size: 20px;
-  font-weight: bold;
-  text-shadow: 1px 1px 0px white;
-}
-.projet {
-  position: relative;
-  bottom: 930px;
+  bottom: 900px;
   right: 0px;
   font-size: 20px;
   font-weight: bold;
   text-shadow: 1px 1px 0px white;
 }
 
-.java {
+.projet {
   position: relative;
   bottom: 855px;
   right: 0px;
@@ -103,7 +104,7 @@
   text-shadow: 1px 1px 0px white;
 }
 
-.adaming {
+.java {
   position: relative;
   bottom: 785px;
   right: 15px;
@@ -112,7 +113,7 @@
   text-shadow: 1px 1px 0px white;
 }
 
-.inconnue1 {
+.adaming {
   position: relative;
   bottom: 722px;
   right: 40px;
@@ -631,7 +632,7 @@
 
 .hovercard9 {
   position: absolute;
-  left: -700px;
+  left: -730px;
   top: -200px;
   z-index: 500;
   display: block;
@@ -924,7 +925,7 @@
 .hovercard14 {
   position: absolute;
   left: 285px;
-  top: -200px;
+  top: -100px;
   z-index: 500;
   display: block;
   .hovercard-container14 {
@@ -951,6 +952,64 @@
       min-height: 140px;
       width: 500px;
       background: white;
+      z-index: 500;
+      display: block;
+    }
+  }
+}
+.person {
+  position: relative;
+  cursor: pointer;
+  .name {
+  }
+  .hovercard15 {
+    visibility: hidden;
+    transition: visibility 400ms ease-out;
+    &:hover {
+      visibility: visible;
+    }
+  }
+  &:hover,
+  .name:hover {
+    .hovercard15 {
+      visibility: visible;
+    }
+    .name {
+    }
+  }
+}
+
+.hovercard15 {
+  position: absolute;
+  left: -660px;
+  top: -100px;
+  z-index: 500;
+  display: block;
+  .hovercard-container15 {
+    position: relative;
+    padding-top: 30px;
+    z-index: 450;
+    &:before {
+      content: ' ';
+      display: block;
+      left: 0;
+      right: 0;
+      top: 30px;
+      bottom: 0;
+      position: absolute;
+      box-shadow: 0 10px 15px rgba(black, 0.2), 0 4px 5px rgba(black, 0.1), 0 0 0 1px rgba(black, 0.07);
+      border-radius: 0px;
+    }
+  }
+  .hovercard-box15 {
+    z-index: 470;
+    background: white;
+    position: relative;
+    .hovercard-body15 {
+      min-height: 140px;
+      width: 500px;
+      background: white;
+      background-size: cover;
       z-index: 500;
       display: block;
     }
